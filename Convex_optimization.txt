@@ -1,0 +1,15 @@
+모두를 위한 컨벡스 최적화 : https://wikidocs.net/book/1896
+
+Stanford Convex Optimization : https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622
+
+Stanford Convex Optimization Book : https://web.stanford.edu/~boyd/cvxbook/
+
+Carnegie Mellon University Convex Optimization : https://www.youtube.com/watch?v=XFKBNJ14UmY&list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC
+
+Convex Optimization CMU 2018fall : https://www.youtube.com/watch?v=Di9f47LAzHQ&list=PLRPU00LaonXQ27RBcq6jFJnyIbGw5azOI
+
+Convex Optimization Online : https://online.stanford.edu/courses/soe-yeecvx101-convex-optimization
+
+서울대학교 전기공학부 대학원 강의 : https://lecture.cdsl.kr/cvxopt
+
+연세대 수치 최적화 : http://www.kocw.net/home/cview.do?mty=p&kemId=433277
