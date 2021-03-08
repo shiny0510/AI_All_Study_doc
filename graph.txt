@@ -1,0 +1,24 @@
+https://leejunhyun.github.io/deep%20learning/graph/2019/03/05/CS224W-02/
+
+http://web.stanford.edu/class/cs224w/
+
+Colab
+https://colab.research.google.com/drive/1b9rZIjD7MUEKwYbXZc3dchTBTpzdrvpd?usp=sharing
+
+
+그래프표현
+https://kingpodo.tistory.com/46
+
+강한연결요소
+https://remocon33.tistory.com/566
+
+그래프 기본용어
+https://ratsgo.github.io/data%20structure&algorithm/2017/11/18/graph/
+
+기초부터 논문까지 GNN 소개
+https://medium.com/watcha/gnn-%EC%86%8C%EA%B0%9C-%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EB%85%BC%EB%AC%B8%EA%B9%8C%EC%A7%80-96567b783479
+
+http://magazine.hellot.net/magz/article/articleDetail.do;jsessionid=4B8DBF12B32047EF78CDA8DB9D982855?flag=search&showType=showType2&articleId=ARTI_000000000043748&searchword=&page=71&searchSortType=sort_1
+
+그래프 머신러닝
+https://wandb.ai/authors/One-Shot-3D-Photography/reports/-Machine-Learning-With-Graphs---Vmlldzo0MTY1MzY
